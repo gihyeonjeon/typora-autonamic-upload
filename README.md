@@ -1,4 +1,4 @@
-# why
+# Why
 
 To avoid the picgo error 422 because the same file is already uploaded in github.
 
